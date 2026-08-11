@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-m87jqj.salamcuanwin.cfd/sitemap.xml
